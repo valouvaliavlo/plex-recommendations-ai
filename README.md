@@ -23,7 +23,7 @@ Changing `SECONDS_TO_WAIT` to run too often will obviously increase the costs as
 ## You'll need
 
 - Plex server host and port
-- Plex token
+- Plex token - [How to get my token](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/)
 - Open AI account and key - Can be obtained from their website.
 - Docker setup
 
